@@ -1,9 +1,11 @@
 # Snake-Game-Using-Python
 A great way to test your programming skills by creating a snake game.
 # Installation
-  Clone the repository: git clone https://github.com/your-username/snake-game.git
-  Navigate to the project directory: cd snake-game
-  Install the required dependencies: pip install -r requirements.txt
+
+    Clone the repository: git clone https://github.com/your-username/snake-game.git
+    Navigate to the project directory: cd snake-game
+    Install the required dependencies: pip install -r requirements.txt
+    
 # Usage
 To start the game, run the snake_game.py file:
 
