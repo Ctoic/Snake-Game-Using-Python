@@ -19,5 +19,5 @@ Contributions are always welcome! If you have any ideas or improvements, please 
 # Credits
 This game was created by Najam Ali Abbas using the turtle library in Python. 
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
